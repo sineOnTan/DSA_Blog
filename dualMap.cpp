@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// This has not been tested. Mainly a concept for
+// https://codeforces.com/contest/2102/problem/D
 
 struct dualMap {
     map<int,int> num_to_index;
